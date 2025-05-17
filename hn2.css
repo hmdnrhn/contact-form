@@ -29,7 +29,8 @@
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #c4c9d1;
+  background-color: #a982a5;
+  
   display: flex;
   flex-direction: column;
   align-items: center;
